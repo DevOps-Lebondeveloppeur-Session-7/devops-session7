@@ -1,0 +1,5 @@
+services:
+  front-service:
+    image: talel12/front-session7
+    ports:
+      - "3001:80"
